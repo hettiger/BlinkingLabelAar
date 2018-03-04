@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlinkingLabel</string>
+    <string name="hallo_welt">Hallo Welt!</string>
+    <string name="toggle_blinking">Toggle blinking</string>
+</resources>
